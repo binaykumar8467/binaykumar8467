@@ -37,7 +37,7 @@ From building user interfaces to handling backend APIs and databases, I work acr
 
 ### 🎓 College Placement Management System  
 A full-stack web application designed to manage and streamline the college placement process.  
-It includes multiple user roles such as Student, Admin, and TPO with secure authentication.  
+It includes multiple user roles such as Student and TPO with secure authentication.  
 The system provides dashboards, manages placement data, and uses MongoDB for efficient data storage.  
 
 ---
